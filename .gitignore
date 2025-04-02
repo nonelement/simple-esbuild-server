@@ -1,0 +1,11 @@
+# ignore .env file
+.env
+
+# ignore build output
+dist/*
+
+# ignore installable packages
+web/node_modules
+
+# built artifact
+ses
